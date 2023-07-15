@@ -2,3 +2,5 @@
 name = "aiohttp"
 version = "3.8.1"
 description = "Async http client/server framework (asyncio)"
+category = "main"
+optional = false
