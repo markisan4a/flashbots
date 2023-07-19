@@ -17,3 +17,5 @@ yarl = ">=1.0,<2.0"
 
 [package.extras]
 speedups = ["aiodns", "brotli", "cchardet"]
+
+[[package]]
