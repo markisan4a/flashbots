@@ -20,3 +20,4 @@ speedups = ["aiodns", "brotli", "cchardet"]
 
 [[package]]
 name = "aiosignal"
+version = "1.2.0"
