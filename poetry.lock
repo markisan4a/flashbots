@@ -51,3 +51,7 @@ version = "4.0.2"
 description = "Timeout context manager for asyncio programs"
 category = "main"
 optional = false
+python-versions = ">=3.6"
+
+[package.dependencies]
+frozenlist = ">=1.1.0"
