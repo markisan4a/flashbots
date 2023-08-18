@@ -86,3 +86,4 @@ version = "0.11.2"
 description = "Cython implementation of Toolz: High performance functional utilities"
 category = "main"
 optional = false
+python-versions = ">=3.5"
