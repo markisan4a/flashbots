@@ -87,3 +87,5 @@ description = "Cython implementation of Toolz: High performance functional utili
 category = "main"
 optional = false
 python-versions = ">=3.5"
+
+[package.extras]
