@@ -89,3 +89,4 @@ optional = false
 python-versions = ">=3.5"
 
 [package.extras]
+speedups = ["aiodns", "brotli", "cchardet"]
