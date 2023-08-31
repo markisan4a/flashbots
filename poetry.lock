@@ -96,3 +96,5 @@ name = "aiosignal"
 version = "1.2.0"
 description = "aiosignal: a list of registered asynchronous callbacks"
 category = "main"
+optional = false
+python-versions = ">=3.6"
