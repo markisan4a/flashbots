@@ -98,3 +98,6 @@ description = "aiosignal: a list of registered asynchronous callbacks"
 category = "main"
 optional = false
 python-versions = ">=3.6"
+
+[[package]]
+name = "atomicwrites"
