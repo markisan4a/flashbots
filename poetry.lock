@@ -124,3 +124,5 @@ tests_no_zope = ["coverage[toml] (>=5.0.2)", "hypothesis", "pympler", "pytest (>
 [[package]]
 name = "base58"
 version = "2.1.1"
+description = "Base58 and Base58Check implementation."
+category = "main"
