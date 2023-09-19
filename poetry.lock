@@ -133,6 +133,8 @@ python-versions = ">=3.5"
 tests = ["mypy", "PyHamcrest (>=2.0.2)", "pytest (>=4.6)", "pytest-benchmark", "pytest-cov", "pytest-flake8"]
 
 [[package]]
+name = "black"
+[[package]]
 name = "bitarray"
 version = "1.2.2"
 description = "efficient arrays of booleans -- C extension"
