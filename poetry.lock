@@ -172,3 +172,6 @@ version = "2021.10.8"
 description = "Python package for providing Mozilla's CA Bundle."
 category = "main"
 optional = false
+python-versions = "*"
+
+[[package]]
