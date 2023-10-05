@@ -141,7 +141,8 @@ description = "efficient arrays of booleans -- C extension"
 category = "main"
 optional = false
 python-versions = "*"
-
+name = "black"
+version = "22.3.0"
 [package.dependencies]
 click = ">=8.0.0"
 [[package]]
