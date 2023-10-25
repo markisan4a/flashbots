@@ -212,3 +212,5 @@ tests = ["mypy", "PyHamcrest (>=2.0.2)", "pytest (>=4.6)", "pytest-benchmark", "
 name = "bitarray"
 version = "1.2.2"
 description = "efficient arrays of booleans -- C extension"
+category = "main"
+optional = false
