@@ -214,3 +214,7 @@ version = "1.2.2"
 description = "efficient arrays of booleans -- C extension"
 category = "main"
 optional = false
+python-versions = "*"
+
+[[package]]
+name = "black"
