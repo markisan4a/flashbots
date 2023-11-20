@@ -275,3 +275,7 @@ description = "Python package for providing Mozilla's CA Bundle."
 category = "main"
 optional = false
 python-versions = "*"
+
+[[package]]
+name = "black"
+version = "22.3.0"
