@@ -279,3 +279,5 @@ python-versions = "*"
 [[package]]
 name = "black"
 version = "22.3.0"
+description = "The uncompromising code formatter."
+category = "dev"
