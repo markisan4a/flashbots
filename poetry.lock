@@ -281,3 +281,5 @@ name = "black"
 version = "22.3.0"
 description = "The uncompromising code formatter."
 category = "dev"
+optional = false
+python-versions = ">=3.6.2"
