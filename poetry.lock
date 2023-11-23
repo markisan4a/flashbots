@@ -283,3 +283,6 @@ description = "The uncompromising code formatter."
 category = "dev"
 optional = false
 python-versions = ">=3.6.2"
+
+[package.dependencies]
+click = ">=8.0.0"
